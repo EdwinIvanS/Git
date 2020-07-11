@@ -5,6 +5,24 @@
     <title>Mi pagina de prueba</title>
   </head>
   <body>
+    <table style="width:100%">
+		<tr>
+			<th>Firstname</th>
+			<th>Lastname</th>
+			<th>Age</th>
+		</tr>
+		<tr>
+			<td>Jill</td>
+			<td>Smith</td>
+			<td>50</td>
+		</tr>
+		<tr>
+			<td>Eve</td>
+			<td>Jackson</td>
+			<td>94</td>
+		</tr>
+	</table>
+  
 	<h1>Esta es una etiqueta H1. Utilízala en el título.</h1>
 	<h2>Esta es una etiqueta H2. Utilízala en los encabezados de secciones.</h2>
 		<p>Tu primer párrafo.</p>
@@ -14,5 +32,6 @@
 	<h4>Esta es una etiqueta H4. No se usan muy a menudo.</h4>
 	<h5>Esta es una etiqueta H5.</h5>
 	<h6>Esta es una etiqueta H6.</h6>
+	
   </body>
 </html>
