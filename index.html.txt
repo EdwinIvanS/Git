@@ -7,19 +7,14 @@
   <body>
     <table style="width:100%">
 		<tr>
-			<th>Firstname</th>
-			<th>Lastname</th>
-			<th>Age</th>
+			<th><img src="https://blog.hostalia.com/wp-content/uploads/2013/02/bebe-gif-blog-de-hostalia-hosting.gif"></th>
+			<th><img src="https://blog.hostalia.com/wp-content/uploads/2013/02/dinosaurio-gif-blog-de-hostalia-hosting.gif"></th>
+			<th><img src="dinosaur.jpg"></th>
 		</tr>
 		<tr>
-			<td>Jill</td>
-			<td>Smith</td>
-			<td>50</td>
-		</tr>
-		<tr>
-			<td>Eve</td>
-			<td>Jackson</td>
-			<td>94</td>
+			<td><img src="https://cnnespanol.cnn.com/wp-content/uploads/2019/12/s_64a163f16ecbb099e52f2f8271f73cbbfcfc9034be4d646f7375e4db1ca6f3d7_1573501883482_ap_19001106049831-1.jpg?resize=940,530"></td>
+			<td><img src="https://ep01.epimg.net/elpais/imagenes/2019/10/30/album/1572424649_614672_1572453030_noticia_normal.jpg"></td>
+			<td><img src="dinosaur.jpg"></td>
 		</tr>
 	</table>
   
