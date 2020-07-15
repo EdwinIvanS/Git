@@ -18,6 +18,7 @@
 		</tr>
 	</table>
   
+    <strong>This text is important!</strong>
 	<h1>Esta es una etiqueta H1. Utilízala en el título.</h1>
 	<h2>Esta es una etiqueta H2. Utilízala en los encabezados de secciones.</h2>
 		<p>Tu primer párrafo.</p>
